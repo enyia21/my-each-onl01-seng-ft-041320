@@ -13,6 +13,6 @@ def my_each(array)
     end
     array
   else
-    puts "Block not provided!"
+    # puts "Block not provided!"
   end
 end
